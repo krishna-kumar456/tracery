@@ -3,7 +3,14 @@ Tracery is an attempt to create a lattice work of mental models. This project is
 Please feel free to read in any manner, ideally you would want to start from the left and work downwards in one column and then move to the next column.
 
 
-| Wordly Wisdom      | Engineering       | Psychology      |
+| Wordly Wisdom |                  | Engineering   |                 
+| ------------- |                  | ------------- |
+| col 3 is      |                  | col 3 is      |
+
+
+
+
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
